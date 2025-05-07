@@ -1,4 +1,0 @@
-package-as: Archivist
-
-ignore:
-  - README.md
